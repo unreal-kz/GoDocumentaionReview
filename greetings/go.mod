@@ -1,5 +1,3 @@
-module github.com/unreal-kz/GoDocumentaionReview/greetings
+module github.com/greetings
 
 go 1.18
-
-replace github.com/unreal-kz/GoDocumentaionReview/greetings => ../greetings
